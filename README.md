@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full-Stack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full-Stack+(MERN)+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB&center=true&width=650&height=50">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 👨‍🎓 **Software Engineering Student**  
 💻 **Full-Stack (MERN) Developer** focused on building scalable, real-world web applications with clean UI and solid backend architecture.
 
-- 🔭 Working with **React, Next.js, Node.js & Express.js (TypeScript)**
+- 🔭 Working with **React, Next.js, Node.js & Express.js ,TypeScript**
 - 🌱 Continuously improving backend logic, API design & database modeling
 - ⚡ Passionate about problem-solving and project-based learning
 
