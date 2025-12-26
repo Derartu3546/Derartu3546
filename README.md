@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full-Stack+(MERN)+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Software+Engineering+Student;Full-Stack+(MERN)+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB&center=true&width=800&height=100">
 </p>
 
 <p align="center">
@@ -9,64 +8,54 @@
 
 ---
 
-## 👋 Hi, I'm Derartu
+## 👋 Hi, I'm <span style="font-size:20px">Derartu</span>
 
-👨‍🎓 **Software Engineering Student**  
-💻 **Full-Stack (MERN) Developer** focused on building scalable, real-world web applications with clean UI and solid backend architecture.
+<p align="center">
+  <strong>Software Engineering Student & Full-Stack (MERN) Developer</strong>
+</p>
 
-- 🔭 Working with **React, Next.js, Node.js & Express.js ,TypeScript**
-- 🌱 Continuously improving backend logic, API design & database modeling
-- ⚡ Passionate about problem-solving and project-based learning
+<p align="center">
+  Passionate about building **scalable, real-world web applications** with clean UI and solid backend architecture.  
+  Continuously learning and improving in <strong>React, Next.js, Node.js, Express, TypeScript, and Databases</strong>.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![React](https://img.shields.io/badge/React-61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-gray)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind&perline=4" />
+</p>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" />
+</p>
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📦 Storage Management Platform
-🔗 https://github.com/Derartu3546/Storage-Management-Platform  
-📌 A storage management and file-sharing platform that allows users to upload, organize, and securely share files.  
+🔗 [GitHub](https://github.com/Derartu3546/Storage-Management-Platform)  
+📌 Upload, organize, and securely share files.  
 🛠️ **Tech:** Next.js 15, Appwrite Node SDK, Tailwind CSS, TypeScript
 
----
-
 ### 🎥 Screen Recording & Video Sharing App
-🔗 https://github.com/Derartu3546/Screen-Recording-Video-Sharing-App  
-📌 A modern platform for recording screens, uploading videos, and sharing them instantly via secure links.  
+🔗 [GitHub](https://github.com/Derartu3546/Screen-Recording-Video-Sharing-App)  
+📌 Record screens, upload videos, and share securely.  
 🛠️ **Tech:** Next.js, TypeScript, Tailwind CSS
 
----
-
 ### 📊 Subscription Tracker API
-🔗 https://github.com/Derartu3546/Travel_Agency_Dashboard 
-📌A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget
-🛠️ **Tech:**  Syncfusion, React Router v7 (framework mode), Appwrite, Tailwind CSS, Vite, React 19
-
----
+🔗 [GitHub](https://github.com/Derartu3546/Travel_Agency_Dashboard)  
+📌 Travel agency dashboard with AI-powered itinerary generator.  
+🛠️ **Tech:** Syncfusion, React Router v7, Appwrite, Tailwind CSS, Vite
 
 ### Travel Agency Dashboard
 🔗 https://github.com/Derartu3546/Subscription-tracker-api  
@@ -74,8 +63,8 @@
 🛠️ **Tech:** Node.js, Express.js, MongoDB
 
 ### 🛒 E-Commerce Website
-🔗 https://github.com/Derartu3546/E-commerce_Website  
-📌 Full-stack e-commerce platform with product listings, shopping cart, and user authentication.  
+🔗 [GitHub](https://github.com/Derartu3546/E-commerce_Website)  
+📌 Full-stack e-commerce platform with product listings, cart, and user auth.  
 🛠️ **Tech:** React.js, Node.js, Express.js, MongoDB
 
 ---
@@ -83,11 +72,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derartu3546&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Derartu3546&show_icons=true&theme=tokyonight&cache_seconds=1800" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derartu3546&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derartu3546&layout=compact&theme=tokyonight" width="600" />
 </p>
 
 ---
@@ -95,12 +84,14 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derartu3546&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derartu3546&theme=tokyo-night" width="800" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-- 💬 Ask me about **React, Next.js, Node.js, Express & Databases**
-- 🚀 Open to collaboration on **full-stack web applications**
-- ⭐ Feel free to explore and star my repositories
+<p align="center">
+  💬 Ask me about <strong>React, Next.js, Node.js, Express & Databases</strong><br>
+  🚀 Open to collaboration on <strong>full-stack web applications</strong><br>
+  ⭐ Feel free to explore and star my repositories
+</p>
