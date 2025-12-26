@@ -43,31 +43,32 @@
 ## 🚀 Featured Projects
 
 ### 📦 Storage Management Platform
-🔗 [GitHub](https://github.com/Derartu3546/Storage-Management-Platform)  
-📌 Upload, organize, and securely share files.  
+🔗 https://github.com/Derartu3546/Storage-Management-Platform 
+📌 A storage management and file-sharing platform that allows users to upload, organize, and securely share files.
 🛠️ **Tech:** Next.js 15, Appwrite Node SDK, Tailwind CSS, TypeScript
+--- 
 
 ### 🎥 Screen Recording & Video Sharing App
-🔗 [GitHub](https://github.com/Derartu3546/Screen-Recording-Video-Sharing-App)  
-📌 Record screens, upload videos, and share securely.  
+🔗 https://github.com/Derartu3546/Screen-Recording-Video-Sharing-App
+📌 A modern platform for recording screens, uploading videos, and sharing them instantly via secure links. 
 🛠️ **Tech:** Next.js, TypeScript, Tailwind CSS
+--- 
 
-### 📊 Subscription Tracker API
-🔗 [GitHub](https://github.com/Derartu3546/Travel_Agency_Dashboard)  
-📌 Travel agency dashboard with AI-powered itinerary generator.  
-🛠️ **Tech:** Syncfusion, React Router v7, Appwrite, Tailwind CSS, Vite
+ ### Travel Agency Dashboard
+🔗 https://github.com/Derartu3546/Travel_Agency_Dashboard 
+📌A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget
+🛠️ **Tech:** Syncfusion, React Router v7 (framework mode), Appwrite, Tailwind CSS, Vite, React 19
+--- 
+📊 Subscription Tracker API 
+🔗 https://github.com/Derartu3546/Subscription-tracker-api 
+📌 A production-ready subscription management API handling real users, payments, and business logic.
+🛠️ **Tech:** Node.js, Express.js, MongoDB 
 
-### Travel Agency Dashboard
-🔗 https://github.com/Derartu3546/Subscription-tracker-api  
-📌 A production-ready subscription management API handling real users, payments, and business logic.  
-🛠️ **Tech:** Node.js, Express.js, MongoDB
-
-### 🛒 E-Commerce Website
-🔗 [GitHub](https://github.com/Derartu3546/E-commerce_Website)  
-📌 Full-stack e-commerce platform with product listings, cart, and user auth.  
-🛠️ **Tech:** React.js, Node.js, Express.js, MongoDB
-
----
+### 
+🛒 E-Commerce Website 
+🔗 https://github.com/Derartu3546/E-commerce_Website 
+📌 Full-stack e-commerce platform with product listings, shopping cart, and user authentication.
+🛠️ **Tech:** React.js, Node.js, Express.js, MongoDB ---
 
 ## 📊 GitHub Stats
 
