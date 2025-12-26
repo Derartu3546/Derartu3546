@@ -23,24 +23,25 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- Tailwind CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![React](https://img.shields.io/badge/React-61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express.js](https://img.shields.io/badge/Express.js-gray)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC)
 
 ### 🗄️ Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192)
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- REST APIs
-- JWT Authentication
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+![REST API](https://img.shields.io/badge/REST-API-lightgrey)
+
 
 ---
 
@@ -61,11 +62,16 @@
 ---
 
 ### 📊 Subscription Tracker API
+🔗 https://github.com/Derartu3546/Travel_Agency_Dashboard 
+📌A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget
+🛠️ **Tech:**  Syncfusion, React Router v7 (framework mode), Appwrite, Tailwind CSS, Vite, React 19
+
+---
+
+### Travel Agency Dashboard
 🔗 https://github.com/Derartu3546/Subscription-tracker-api  
 📌 A production-ready subscription management API handling real users, payments, and business logic.  
 🛠️ **Tech:** Node.js, Express.js, MongoDB
-
----
 
 ### 🛒 E-Commerce Website
 🔗 https://github.com/Derartu3546/E-commerce_Website  
