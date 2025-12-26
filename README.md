@@ -53,14 +53,15 @@
 
 ---
 
-### 📊 Subscription Tracker API
+ ### Travel Agency Dashboard
 🔗 https://github.com/Derartu3546/Travel_Agency_Dashboard 
 📌A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget
+
 🛠️ **Tech:**  Syncfusion, React Router v7 (framework mode), Appwrite, Tailwind CSS, Vite, React 19
 
 ---
 
-### Travel Agency Dashboard
+📊 Subscription Tracker API
 🔗 https://github.com/Derartu3546/Subscription-tracker-api  
 📌 A production-ready subscription management API handling real users, payments, and business logic.  
 🛠️ **Tech:** Node.js, Express.js, MongoDB
@@ -76,18 +77,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Total Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Derartu3546&show_icons=true&theme=tokyonight&cache_seconds=1800" width="600" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derartu3546&layout=compact&theme=tokyonight&cache_seconds=1800" width="600" />
 </p>
 
 ## 📈 GitHub Activity
 
 <p align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derartu3546&theme=react-dark&area=true&hide_border=true" width="800" />
 </p>
+
 
 
 ## 🤝 Let's Connect
