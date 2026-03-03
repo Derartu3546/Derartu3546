@@ -90,10 +90,10 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derartu3546&theme=react-dark&area=true&hide_border=true" width="800" />
-</p>
+##<p align="center">
+#####  <!-- Activity Graph -->
+ ## <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derartu3546&theme=react-dark&area=true&hide_border=true" width="800" />
+##</p>
 
 
 
