@@ -88,12 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derartu3546&layout=compact&theme=tokyonight&cache_seconds=1800" width="600" />
 </p>
 
-## 📈 GitHub Activity
 
-##<p align="center">
-#####  <!-- Activity Graph -->
- ## <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derartu3546&theme=react-dark&area=true&hide_border=true" width="800" />
-##</p>
 
 
 
